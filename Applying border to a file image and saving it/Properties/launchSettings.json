@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Applying border to a file image and saving it": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\sunny\\Pictures\\Saved Pictures\\woman.png\""
+    }
+  }
+}
